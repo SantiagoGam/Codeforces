@@ -1,0 +1,1 @@
+A practice environment dedicated to solving Codeforces problems to strengthen my analytical and problem-solving skills. Through competitive programming, I learn to code on my own, working on algorithms and data structures while improving the efficiency and clarity of my solutions.
